@@ -31,6 +31,6 @@ The simulation is intended for educational purposes and not for real-world appli
 My tasks:
  - Winter modelling
  - Change structure of the ODE Solvers
- - Implementation ODE Solvers
+ - Implement the ODE Solvers with the physics engine
  - JUnit testing
  - Physics for the rocket and the fuel consumption
