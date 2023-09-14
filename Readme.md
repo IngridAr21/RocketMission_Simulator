@@ -26,3 +26,11 @@ Notes:
 The simulation assumes a simplified model of the gravitational forces of Saturn and Titan
 The Euler Method is used to calculate the trajectory of the rocket, which may not be as accurate as other numerical methods
 The simulation is intended for educational purposes and not for real-world applications
+
+
+My tasks:
+ - Winter modelling
+ - Change structure of the ODE Solvers
+ - Implementation ODE Solvers
+ - JUnit testing
+ - Physics for the rocket and the fuel consumption
